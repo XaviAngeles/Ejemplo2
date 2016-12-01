@@ -1,0 +1,8 @@
+
+ORM Enloquent 
+->Pluck
+->all()
+
+sintaxis $Get_Json
+sintaxis $ajax invetigar expocicion
+sintaxis $PostJSON
